@@ -1,0 +1,36 @@
+.listing {
+    background: var(--accent-color);
+    border-radius: 10px;
+    padding-bottom: 10px;
+  }
+  .listing-heading {
+    color: var(--primary-color);
+    padding: 5px 10px 0 10px;
+  }
+  .listing-photo {
+    height: 30; /* 465px; */
+    width: 30%;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+  }
+  .listing-details-link {
+    font-size:x-small;
+    padding: 5px 8px 8px 8px;
+  }
+  .listing-location {
+    font-size:xx-small;
+    padding: 5px 8px 8px 8px;
+  }
+  .listing-location::before {
+    content: url("/assets/location-pin.svg") / "";
+  }
+  
+  section.listing a {
+    padding-left: 8px;
+    text-decoration: none;
+    color: var(--primary-color);
+  }
+  section.listing a::after {
+    content: "\203A";
+    margin-left: 5px;
+  }

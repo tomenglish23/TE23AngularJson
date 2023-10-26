@@ -1,0 +1,65 @@
+{
+    "locations": [
+          {
+            "id": 1,
+            "name": "Red Bow",
+            "city": "Sunderland",
+            "state": "MA",
+            "photo": "/assets/_AdriannaRedBow.JPG", 
+            "availableUnits": 1,
+            "wifi": true,
+            "laundry": true
+          },
+          {
+            "id": 5,
+            "name": "With Mommy",
+            "city": "Lawrence Township",
+            "state": "NJ",
+            "photo": "/assets/_AdriannaMommy.jpg", 
+            "availableUnits": 5,
+            "wifi": true,
+            "laundry": true
+          } ,
+          {
+            "id": 4,
+            "name": "Furry",
+            "city": "Sunderland",
+            "state": "MA",
+            "photo": "/assets/_FurryGlasses.jpg", 
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+          },
+          {
+            "id": 0,
+            "name": "Cowboys",
+            "city": "Sunderland",
+            "state": "MA",
+            "photo": "/assets/_AdriannaPapaCowboy.JPG", 
+            "availableUnits": 0,
+            "wifi": true,
+            "laundry": true
+          },
+          {
+            "id": 2,
+            "name": "With Papa & Furry",
+            "city": "Sunderland",
+            "state": "MA",
+            "photo": "/assets/_AdriannaPapaFurry.JPG", 
+            "availableUnits": 2,
+            "wifi": true,
+            "laundry": true
+          } ,
+          {
+            "id": 6,
+            "name": "Camping with Mel",
+            "city": "Somewhere",
+            "state": "NH",
+            "photo": "/assets/_AdriannaMelCamp.jpg", 
+            "availableUnits": 2,
+            "wifi": true,
+            "laundry": true
+          }    
+    ] 
+
+}
